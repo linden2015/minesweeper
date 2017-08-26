@@ -10,9 +10,9 @@ Run as follows:
 
     mvn exec: java
 
-## Requirements
+## Requirements (not tested with earlier)
 
-* Maven
+* Maven 3.3.9
 * Java 1.8
 
 ## Backlog
